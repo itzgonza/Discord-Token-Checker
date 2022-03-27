@@ -1,10 +1,11 @@
-# Discord-Token-Checker
-source code of discord token checker with gui [remake]
+# About
+
+Source codes of encrypted topic.
 
 # Credits
 
 original creator: [RANKTW](https://github.com/RANKTW)<br>
-original subject: [Discord-Token-Checker](https://github.com/RANKTW/Discord-Token-Checker)
+original subject: [Discord-Token-Checker(Encrypted)](https://github.com/RANKTW/Discord-Token-Checker)
 
 # Pics
 
