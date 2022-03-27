@@ -1,7 +1,10 @@
 # DiscordTokenChecker
 source code of discord token checker with gui [remake]
 
-0riginal subject: [RANKTW/Discord-Token-Checker](https://github.com/RANKTW/Discord-Token-Checker)
+# About
+
+original subject: [Discord-Token-Checker](https://github.com/RANKTW/Discord-Token-Checker)
+original creator: [RANKTW](https://github.com/RANKTW)
 
 # Pics
 
