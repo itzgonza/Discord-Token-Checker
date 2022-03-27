@@ -1,4 +1,4 @@
-# DiscordTokenChecker
+# Discord-Token-Checker
 source code of discord token checker with gui [remake]
 
 # Credits
