@@ -1,6 +1,6 @@
 # About
 
-Source codes of encrypted topic.
+Source codes of encrypted topic
 
 # Credits
 
